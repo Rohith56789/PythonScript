@@ -1,0 +1,14 @@
+2025-05-11 10:36:45,872 - root - DEBUG - This is a debug message
+2025-05-11 10:43:39,357 - root - DEBUG - This is a debug message
+2025-05-11 10:43:39,358 - root - INFO - This is an info message
+2025-05-11 10:43:39,358 - root - WARNING - This is a warning message
+2025-05-11 10:43:39,358 - root - ERROR - This is an error message
+2025-05-11 10:43:39,358 - root - CRITICAL - This is a critical message
+2025-05-11 10:44:09,616 - root - DEBUG - This is a debug message
+2025-05-11 10:44:09,616 - root - INFO - This is an info message
+2025-05-11 10:44:09,616 - root - WARNING - This is a warning message
+2025-05-11 10:44:09,616 - root - ERROR - This is an error message
+2025-05-11 10:44:09,616 - root - CRITICAL - This is a critical message
+2025-05-11 10:44:09,624 - rohith - DEBUG - This is a debug message
+2025-05-11 10:51:58,751 - root - INFO - Backup created: backup\backup_20250511_105158.zip
+2025-05-11 11:08:24,946 - root - INFO - Backup created: backup\backup_20250511_110824.zip
